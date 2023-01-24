@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mOn4XCfDF9YKiaOWyn7DC0Hc+DKr17V/U0otVStuCSc=",
+  "Hash": "lDI+9hhhbFEXu/SZ5hYF7SaLfdETj/bB7dhx4LuKw7A=",
   "Source": "Dapper1",
   "BasePath": "_content/Dapper1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Dapper1\\wwwroot",
       "Source": "Dapper1",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Dapper1.styles.css",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Dapper1.styles.css",
       "SourceId": "Dapper1",
       "SourceType": "Computed",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "Dapper1.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\ICube\\Working File-Deep\\Dapper1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Dapper1.styles.css"
+      "OriginalItemSpec": "D:\\Projects\\ICube\\Project\\Dapper1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Dapper1.styles.css"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Dapper1.bundle.scp.css",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Dapper1.bundle.scp.css",
       "SourceId": "Dapper1",
       "SourceType": "Computed",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "Dapper1.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\ICube\\Working File-Deep\\Dapper1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Dapper1.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Projects\\ICube\\Project\\Dapper1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Dapper1.bundle.scp.css"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\index.css",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\index.css",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/index.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\site.css",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\css\\style.css",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\css\\style.css",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\favicon.ico",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\images\\bg.jpg",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\images\\bg.jpg",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "images/bg.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg.jpg"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\images\\bg1.jpg",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\images\\bg1.jpg",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "images/bg1.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg1.jpg"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\images\\ppcb.jpg",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\images\\ppcb.jpg",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "images/ppcb.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ppcb.jpg"
     },
     {
-      "Identity": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\images\\tiet.jpg",
+      "Identity": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\images\\tiet.jpg",
       "SourceId": "Dapper1",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\ICube\\Working File-Deep\\Dapper1\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ICube\\Project\\Dapper1\\wwwroot\\",
       "BasePath": "_content/Dapper1",
       "RelativePath": "images/tiet.jpg",
       "AssetKind": "All",

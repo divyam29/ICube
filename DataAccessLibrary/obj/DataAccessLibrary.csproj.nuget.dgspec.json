@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\ICube\\Working File-Deep\\DataAccessLibrary\\DataAccessLibrary.csproj": {}
+    "D:\\Projects\\ICube\\Project\\DataAccessLibrary\\DataAccessLibrary.csproj": {}
   },
   "projects": {
-    "G:\\ICube\\Working File-Deep\\DataAccessLibrary\\DataAccessLibrary.csproj": {
+    "D:\\Projects\\ICube\\Project\\DataAccessLibrary\\DataAccessLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\ICube\\Working File-Deep\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "projectUniqueName": "D:\\Projects\\ICube\\Project\\DataAccessLibrary\\DataAccessLibrary.csproj",
         "projectName": "DataAccessLibrary",
-        "projectPath": "G:\\ICube\\Working File-Deep\\DataAccessLibrary\\DataAccessLibrary.csproj",
-        "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "G:\\ICube\\Working File-Deep\\DataAccessLibrary\\obj\\",
+        "projectPath": "D:\\Projects\\ICube\\Project\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "packagesPath": "C:\\Users\\Divyam\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\ICube\\Project\\DataAccessLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Divyam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
