@@ -1,0 +1,84 @@
+G:/Projects/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.deps.json
+G:/Projects/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.dll
+G:/Projects/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.pdb
+G:/Projects/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.AssemblyReference.cache
+G:/Projects/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:/Projects/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfoInputs.cache
+G:/Projects/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfo.cs
+G:/Projects/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.CoreCompileInputs.cache
+G:/Projects/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.dll
+G:/Projects/DataAccessLibrary/obj/Debug/net6.0/refint/DataAccessLibrary.dll
+G:/Projects/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.pdb
+G:/Projects/DataAccessLibrary/obj/Debug/net6.0/ref/DataAccessLibrary.dll
+D:/newproj/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.deps.json
+D:/newproj/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.dll
+D:/newproj/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.pdb
+D:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.AssemblyReference.cache
+D:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfoInputs.cache
+D:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfo.cs
+D:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.CoreCompileInputs.cache
+D:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.dll
+D:/newproj/DataAccessLibrary/obj/Debug/net6.0/refint/DataAccessLibrary.dll
+D:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.pdb
+D:/newproj/DataAccessLibrary/obj/Debug/net6.0/ref/DataAccessLibrary.dll
+E:/newproj/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.deps.json
+E:/newproj/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.dll
+E:/newproj/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.pdb
+E:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.AssemblyReference.cache
+E:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfoInputs.cache
+E:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfo.cs
+E:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.CoreCompileInputs.cache
+E:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.dll
+E:/newproj/DataAccessLibrary/obj/Debug/net6.0/refint/DataAccessLibrary.dll
+E:/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.pdb
+E:/newproj/DataAccessLibrary/obj/Debug/net6.0/ref/DataAccessLibrary.dll
+/Users/harrysingh/Desktop/newproj/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.deps.json
+/Users/harrysingh/Desktop/newproj/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.dll
+/Users/harrysingh/Desktop/newproj/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.pdb
+/Users/harrysingh/Desktop/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.AssemblyReference.cache
+/Users/harrysingh/Desktop/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrysingh/Desktop/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfoInputs.cache
+/Users/harrysingh/Desktop/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfo.cs
+/Users/harrysingh/Desktop/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.CoreCompileInputs.cache
+/Users/harrysingh/Desktop/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.dll
+/Users/harrysingh/Desktop/newproj/DataAccessLibrary/obj/Debug/net6.0/refint/DataAccessLibrary.dll
+/Users/harrysingh/Desktop/newproj/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.pdb
+/Users/harrysingh/Desktop/newproj/DataAccessLibrary/obj/Debug/net6.0/ref/DataAccessLibrary.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.deps.json
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.pdb
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.AssemblyReference.cache
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfoInputs.cache
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfo.cs
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.CoreCompileInputs.cache
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/DataAccessLibrary/obj/Debug/net6.0/refint/DataAccessLibrary.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.pdb
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/DataAccessLibrary/obj/Debug/net6.0/ref/DataAccessLibrary.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.deps.json
+/Volumes/Programming Projects/ICUBE/Working File-Deep/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/DataAccessLibrary/bin/Debug/net6.0/DataAccessLibrary.pdb
+/Volumes/Programming Projects/ICUBE/Working File-Deep/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.AssemblyReference.cache
+/Volumes/Programming Projects/ICUBE/Working File-Deep/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Programming Projects/ICUBE/Working File-Deep/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfoInputs.cache
+/Volumes/Programming Projects/ICUBE/Working File-Deep/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.AssemblyInfo.cs
+/Volumes/Programming Projects/ICUBE/Working File-Deep/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.csproj.CoreCompileInputs.cache
+/Volumes/Programming Projects/ICUBE/Working File-Deep/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/DataAccessLibrary/obj/Debug/net6.0/refint/DataAccessLibrary.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/DataAccessLibrary/obj/Debug/net6.0/DataAccessLibrary.pdb
+/Volumes/Programming Projects/ICUBE/Working File-Deep/DataAccessLibrary/obj/Debug/net6.0/ref/DataAccessLibrary.dll
+G:\ICube\Working File-Deep\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.deps.json
+G:\ICube\Working File-Deep\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.dll
+G:\ICube\Working File-Deep\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.pdb
+G:\ICube\Working File-Deep\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.AssemblyReference.cache
+G:\ICube\Working File-Deep\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\ICube\Working File-Deep\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfoInputs.cache
+G:\ICube\Working File-Deep\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfo.cs
+G:\ICube\Working File-Deep\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+G:\ICube\Working File-Deep\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.dll
+G:\ICube\Working File-Deep\DataAccessLibrary\obj\Debug\net6.0\refint\DataAccessLibrary.dll
+G:\ICube\Working File-Deep\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.pdb
+G:\ICube\Working File-Deep\DataAccessLibrary\obj\Debug\net6.0\ref\DataAccessLibrary.dll

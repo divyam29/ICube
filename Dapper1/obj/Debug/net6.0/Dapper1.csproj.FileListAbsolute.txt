@@ -1,0 +1,296 @@
+G:/Projects/Dapper1/obj/Debug/net6.0/Dapper1.csproj.AssemblyReference.cache
+G:/Projects/Dapper1/obj/Debug/net6.0/Dapper1.GeneratedMSBuildEditorConfig.editorconfig
+G:/Projects/Dapper1/obj/Debug/net6.0/Dapper1.AssemblyInfoInputs.cache
+G:/Projects/Dapper1/obj/Debug/net6.0/Dapper1.AssemblyInfo.cs
+G:/Projects/Dapper1/obj/Debug/net6.0/Dapper1.csproj.CoreCompileInputs.cache
+G:/Projects/Dapper1/obj/Debug/net6.0/Dapper1.MvcApplicationPartsAssemblyInfo.cache
+G:/Projects/Dapper1/obj/Debug/net6.0/Dapper1.RazorAssemblyInfo.cache
+G:/Projects/Dapper1/obj/Debug/net6.0/Dapper1.RazorAssemblyInfo.cs
+G:/Projects/Dapper1/bin/Debug/net6.0/appsettings.Development.json
+G:/Projects/Dapper1/bin/Debug/net6.0/appsettings.json
+G:/Projects/Dapper1/bin/Debug/net6.0/Dapper1.staticwebassets.runtime.json
+G:/Projects/Dapper1/bin/Debug/net6.0/Dapper1.exe
+G:/Projects/Dapper1/bin/Debug/net6.0/Dapper1.deps.json
+G:/Projects/Dapper1/bin/Debug/net6.0/Dapper1.runtimeconfig.json
+G:/Projects/Dapper1/bin/Debug/net6.0/Dapper1.dll
+G:/Projects/Dapper1/bin/Debug/net6.0/Dapper1.pdb
+G:/Projects/Dapper1/bin/Debug/net6.0/Dapper.dll
+G:/Projects/Dapper1/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+G:/Projects/Dapper1/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+G:/Projects/Dapper1/bin/Debug/net6.0/System.Data.SqlClient.dll
+G:/Projects/Dapper1/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+G:/Projects/Dapper1/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+G:/Projects/Dapper1/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+G:/Projects/Dapper1/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+G:/Projects/Dapper1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+G:/Projects/Dapper1/bin/Debug/net6.0/DataAccessLibrary.dll
+G:/Projects/Dapper1/bin/Debug/net6.0/DataAccessLibrary.pdb
+G:/Projects/Dapper1/obj/Debug/net6.0/staticwebassets.build.json
+G:/Projects/Dapper1/obj/Debug/net6.0/staticwebassets.development.json
+G:/Projects/Dapper1/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+G:/Projects/Dapper1/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+G:/Projects/Dapper1/obj/Debug/net6.0/scopedcss/bundle/Dapper1.styles.css
+G:/Projects/Dapper1/obj/Debug/net6.0/scopedcss/projectbundle/Dapper1.bundle.scp.css
+G:/Projects/Dapper1/obj/Debug/net6.0/Dapper1.csproj.CopyComplete
+G:/Projects/Dapper1/obj/Debug/net6.0/Dapper1.dll
+G:/Projects/Dapper1/obj/Debug/net6.0/refint/Dapper1.dll
+G:/Projects/Dapper1/obj/Debug/net6.0/Dapper1.pdb
+G:/Projects/Dapper1/obj/Debug/net6.0/Dapper1.genruntimeconfig.cache
+G:/Projects/Dapper1/obj/Debug/net6.0/ref/Dapper1.dll
+D:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.csproj.AssemblyReference.cache
+D:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.GeneratedMSBuildEditorConfig.editorconfig
+D:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.AssemblyInfoInputs.cache
+D:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.AssemblyInfo.cs
+D:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.csproj.CoreCompileInputs.cache
+D:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.MvcApplicationPartsAssemblyInfo.cache
+D:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.RazorAssemblyInfo.cache
+D:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.RazorAssemblyInfo.cs
+D:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.dll
+D:/newproj/Dapper1/obj/Debug/net6.0/refint/Dapper1.dll
+D:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.pdb
+D:/newproj/Dapper1/bin/Debug/net6.0/appsettings.Development.json
+D:/newproj/Dapper1/bin/Debug/net6.0/appsettings.json
+D:/newproj/Dapper1/bin/Debug/net6.0/Dapper1.staticwebassets.runtime.json
+D:/newproj/Dapper1/bin/Debug/net6.0/Dapper1.exe
+D:/newproj/Dapper1/bin/Debug/net6.0/Dapper1.deps.json
+D:/newproj/Dapper1/bin/Debug/net6.0/Dapper1.runtimeconfig.json
+D:/newproj/Dapper1/bin/Debug/net6.0/Dapper1.dll
+D:/newproj/Dapper1/bin/Debug/net6.0/Dapper1.pdb
+D:/newproj/Dapper1/bin/Debug/net6.0/Dapper.dll
+D:/newproj/Dapper1/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/newproj/Dapper1/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/newproj/Dapper1/bin/Debug/net6.0/System.Data.SqlClient.dll
+D:/newproj/Dapper1/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+D:/newproj/Dapper1/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+D:/newproj/Dapper1/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+D:/newproj/Dapper1/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/newproj/Dapper1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/newproj/Dapper1/bin/Debug/net6.0/DataAccessLibrary.dll
+D:/newproj/Dapper1/bin/Debug/net6.0/DataAccessLibrary.pdb
+D:/newproj/Dapper1/obj/Debug/net6.0/staticwebassets.build.json
+D:/newproj/Dapper1/obj/Debug/net6.0/staticwebassets.development.json
+D:/newproj/Dapper1/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+D:/newproj/Dapper1/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+D:/newproj/Dapper1/obj/Debug/net6.0/scopedcss/bundle/Dapper1.styles.css
+D:/newproj/Dapper1/obj/Debug/net6.0/scopedcss/projectbundle/Dapper1.bundle.scp.css
+D:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.csproj.CopyComplete
+D:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.genruntimeconfig.cache
+D:/newproj/Dapper1/obj/Debug/net6.0/ref/Dapper1.dll
+E:/newproj/Dapper1/bin/Debug/net6.0/appsettings.Development.json
+E:/newproj/Dapper1/bin/Debug/net6.0/appsettings.json
+E:/newproj/Dapper1/bin/Debug/net6.0/Dapper1.staticwebassets.runtime.json
+E:/newproj/Dapper1/bin/Debug/net6.0/Dapper1.exe
+E:/newproj/Dapper1/bin/Debug/net6.0/Dapper1.deps.json
+E:/newproj/Dapper1/bin/Debug/net6.0/Dapper1.runtimeconfig.json
+E:/newproj/Dapper1/bin/Debug/net6.0/Dapper1.dll
+E:/newproj/Dapper1/bin/Debug/net6.0/Dapper1.pdb
+E:/newproj/Dapper1/bin/Debug/net6.0/Dapper.dll
+E:/newproj/Dapper1/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+E:/newproj/Dapper1/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+E:/newproj/Dapper1/bin/Debug/net6.0/System.Data.SqlClient.dll
+E:/newproj/Dapper1/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+E:/newproj/Dapper1/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+E:/newproj/Dapper1/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+E:/newproj/Dapper1/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+E:/newproj/Dapper1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+E:/newproj/Dapper1/bin/Debug/net6.0/DataAccessLibrary.dll
+E:/newproj/Dapper1/bin/Debug/net6.0/DataAccessLibrary.pdb
+E:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.csproj.AssemblyReference.cache
+E:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.GeneratedMSBuildEditorConfig.editorconfig
+E:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.AssemblyInfoInputs.cache
+E:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.AssemblyInfo.cs
+E:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.csproj.CoreCompileInputs.cache
+E:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.MvcApplicationPartsAssemblyInfo.cache
+E:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.RazorAssemblyInfo.cache
+E:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.RazorAssemblyInfo.cs
+E:/newproj/Dapper1/obj/Debug/net6.0/staticwebassets.build.json
+E:/newproj/Dapper1/obj/Debug/net6.0/staticwebassets.development.json
+E:/newproj/Dapper1/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+E:/newproj/Dapper1/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+E:/newproj/Dapper1/obj/Debug/net6.0/scopedcss/bundle/Dapper1.styles.css
+E:/newproj/Dapper1/obj/Debug/net6.0/scopedcss/projectbundle/Dapper1.bundle.scp.css
+E:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.csproj.CopyComplete
+E:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.dll
+E:/newproj/Dapper1/obj/Debug/net6.0/refint/Dapper1.dll
+E:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.pdb
+E:/newproj/Dapper1/obj/Debug/net6.0/Dapper1.genruntimeconfig.cache
+E:/newproj/Dapper1/obj/Debug/net6.0/ref/Dapper1.dll
+E:/newproj/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.Dapper1.Microsoft.AspNetCore.StaticWebAssets.props
+E:/newproj/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.build.Dapper1.props
+E:/newproj/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Dapper1.props
+E:/newproj/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Dapper1.props
+E:/newproj/Dapper1/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/appsettings.Development.json
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/appsettings.json
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/Dapper1.staticwebassets.runtime.json
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/Dapper1
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/Dapper1.deps.json
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/Dapper1.runtimeconfig.json
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/Dapper1.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/Dapper1.pdb
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/Dapper.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/DataAccessLibrary.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/bin/Debug/net6.0/DataAccessLibrary.pdb
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/Dapper1.csproj.AssemblyReference.cache
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/Dapper1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/Dapper1.AssemblyInfoInputs.cache
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/Dapper1.AssemblyInfo.cs
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/Dapper1.csproj.CoreCompileInputs.cache
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/Dapper1.MvcApplicationPartsAssemblyInfo.cache
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/Dapper1.RazorAssemblyInfo.cache
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/Dapper1.RazorAssemblyInfo.cs
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.Dapper1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.build.Dapper1.props
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Dapper1.props
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Dapper1.props
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/staticwebassets.build.json
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/staticwebassets.development.json
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/scopedcss/bundle/Dapper1.styles.css
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/scopedcss/projectbundle/Dapper1.bundle.scp.css
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/Dapper1.csproj.CopyComplete
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/Dapper1.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/refint/Dapper1.dll
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/Dapper1.pdb
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/Dapper1.genruntimeconfig.cache
+/Users/harrysingh/Desktop/newproj/Dapper1/obj/Debug/net6.0/ref/Dapper1.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/appsettings.Development.json
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/appsettings.json
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/Dapper1.staticwebassets.runtime.json
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/Dapper1
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/Dapper1.deps.json
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/Dapper1.runtimeconfig.json
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/Dapper1.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/Dapper1.pdb
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/Dapper.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/DataAccessLibrary.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/bin/Debug/net6.0/DataAccessLibrary.pdb
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/Dapper1.csproj.AssemblyReference.cache
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/Dapper1.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/Dapper1.AssemblyInfoInputs.cache
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/Dapper1.AssemblyInfo.cs
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/Dapper1.csproj.CoreCompileInputs.cache
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/Dapper1.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/Dapper1.RazorAssemblyInfo.cache
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/Dapper1.RazorAssemblyInfo.cs
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.Dapper1.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.build.Dapper1.props
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Dapper1.props
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Dapper1.props
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/staticwebassets.pack.json
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/staticwebassets.build.json
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/staticwebassets.development.json
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/scopedcss/bundle/Dapper1.styles.css
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/scopedcss/projectbundle/Dapper1.bundle.scp.css
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/Dapper1.csproj.CopyComplete
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/Dapper1.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/refint/Dapper1.dll
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/Dapper1.pdb
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/Dapper1.genruntimeconfig.cache
+/Volumes/Programming Projects/ICUBE/Deep ICUBE/Dapper1/obj/Debug/net6.0/ref/Dapper1.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/appsettings.Development.json
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/appsettings.json
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/Dapper1.staticwebassets.runtime.json
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/Dapper1
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/Dapper1.deps.json
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/Dapper1.runtimeconfig.json
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/Dapper1.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/Dapper1.pdb
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/Dapper.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/DataAccessLibrary.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/bin/Debug/net6.0/DataAccessLibrary.pdb
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/Dapper1.csproj.AssemblyReference.cache
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/Dapper1.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/Dapper1.AssemblyInfoInputs.cache
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/Dapper1.AssemblyInfo.cs
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/Dapper1.csproj.CoreCompileInputs.cache
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/Dapper1.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/Dapper1.RazorAssemblyInfo.cache
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/Dapper1.RazorAssemblyInfo.cs
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.Dapper1.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.build.Dapper1.props
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Dapper1.props
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Dapper1.props
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/staticwebassets.pack.json
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/staticwebassets.build.json
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/staticwebassets.development.json
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/scopedcss/bundle/Dapper1.styles.css
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/scopedcss/projectbundle/Dapper1.bundle.scp.css
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/Dapper1.csproj.CopyComplete
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/Dapper1.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/refint/Dapper1.dll
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/Dapper1.pdb
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/Dapper1.genruntimeconfig.cache
+/Volumes/Programming Projects/ICUBE/Working File-Deep/Dapper1/obj/Debug/net6.0/ref/Dapper1.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\appsettings.Development.json
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\appsettings.json
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\Dapper1.staticwebassets.runtime.json
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\Dapper1.exe
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\Dapper1.deps.json
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\Dapper1.runtimeconfig.json
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\Dapper1.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\Dapper1.pdb
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\Dapper.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\System.Data.SqlClient.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\DataAccessLibrary.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\DataAccessLibrary.pdb
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\Dapper1.csproj.AssemblyReference.cache
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\Dapper1.GeneratedMSBuildEditorConfig.editorconfig
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\Dapper1.AssemblyInfoInputs.cache
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\Dapper1.AssemblyInfo.cs
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\Dapper1.csproj.CoreCompileInputs.cache
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\Dapper1.MvcApplicationPartsAssemblyInfo.cache
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\Dapper1.RazorAssemblyInfo.cache
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\Dapper1.RazorAssemblyInfo.cs
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\staticwebassets.build.json
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\staticwebassets.development.json
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\scopedcss\bundle\Dapper1.styles.css
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\scopedcss\projectbundle\Dapper1.bundle.scp.css
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\Dapper1.csproj.CopyComplete
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\Dapper1.dll
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\refint\Dapper1.dll
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\Dapper1.pdb
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\Dapper1.genruntimeconfig.cache
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\ref\Dapper1.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\MailKit.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\MimeKit.dll
+G:\ICube\Working File-Deep\Dapper1\bin\Debug\net6.0\BouncyCastle.Crypto.dll

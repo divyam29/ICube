@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Dapper1.props" />
+</Project>

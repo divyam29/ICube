@@ -1,0 +1,8 @@
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\ICube.csproj.AssemblyReference.cache
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\ICube.GeneratedMSBuildEditorConfig.editorconfig
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\ICube.AssemblyInfoInputs.cache
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\ICube.AssemblyInfo.cs
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\ICube.csproj.CoreCompileInputs.cache
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\ICube.MvcApplicationPartsAssemblyInfo.cache
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\ICube.RazorAssemblyInfo.cache
+G:\ICube\Working File-Deep\Dapper1\obj\Debug\net6.0\ICube.RazorAssemblyInfo.cs

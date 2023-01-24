@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{50491A02-6BBD-42EA-AA8A-5AD7378A3E1D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Dapper1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.razor">
+    <Files>
+      <File FileName="wwwroot/css/index.css" Line="157" Column="18" IsPinned="True" />
+      <File FileName="Pages/Index.razor" Line="60" Column="33" />
+      <File FileName="Shared/MainLayout.razor" Line="19" Column="11" />
+      <File FileName="Pages/_Layout.cshtml" Line="16" Column="29" />
+      <File FileName="Pages/IndustryIndex.razor" Line="1" Column="1" />
+      <File FileName="../../Static Pages/index.html" Line="60" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dapper1" expanded="True">
+            <Node name="Dapper1" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="ExpIndex.razor" selected="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

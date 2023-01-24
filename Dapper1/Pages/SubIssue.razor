@@ -1,0 +1,105 @@
+﻿@page "/SubIssue"
+
+
+@using DataAccessLibrary
+@using DataAccessLibrary.Models
+@using Dapper1.Models
+
+@inject IIssueData _IssueDb
+
+<div class="d-flex">
+
+    <Sidebar></Sidebar>
+
+    <div class="px-5 d-flex flex-column align-items-center w-100 ">
+        <div class="heading mt-3">
+            INDUSTRY-INSTITUTE INTERFACE [ICube]
+        </div>
+
+        <div class="container cont colw">
+            <h1>Submit issue</h1>
+        </div>
+    
+        <div class="container colw">
+            <div class="row">
+                <div class="col">
+                    <div class="container mt-1 col-lg">
+                        <form action="#" name="issue_form" method="post" >
+                            <div class="mb-3 mt-3">
+                                <label for="issue_heading">Issue Heading: </label>
+                                <input required type="text" class="form-control" id="email" placeholder="Write your heading here" name="issue_h">
+                            </div>
+                            <div class="mb-3">
+                                <label for="issue_desc">Issue: </label>
+                                <textarea required name="issue_text" class="form-control" placeholder="Write issue here..." id="itx" cols="30" rows="10"></textarea>
+                            </div>
+                            <div class="row">
+                                <div class="mb-3">
+                                    <label for="formFile" class="form-label">Upload Supporting Documents:</label>
+                                    <br><span><i>Kindly upload only .zip file,</i></span>
+                                    <span><i>Click</i> <a target="_blank" href="https://www.win-rar.com/">here</a> <i>to download winrar to zip your files.</i></span>
+                                </div>
+                                <div class="col-sm">
+                                    <input class="form-control mt-2 " type="file" id="formFile" name="upl_doc">
+                                </div>
+                                <div class="col-sm mt-2 float-end upload-file-btn">
+                                    <button type="button" class="btn btn-primary" id="upl">Upload Now</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            
+                <div class="col h-100 colw">
+                    <h3>Submitter Detail</h3>
+                    <div class="container mt-3 col-lg h-100">
+                        <form action="IndustryIndex.html">
+                            <div class="mb-3 mt-3">
+                                <label for="upd_name">Name: </label>
+                                <input disabled type="text" class="form-control" id="upd_name" placeholder="" name="upd_name" value="Rajesh Kumar Sahni">
+                            </div>
+                            <div class="mb-3 mt-3">
+                                <label for="upd_desg">Desigination: </label>
+                                <input disabled type="text" class="form-control" id="upd_desg" placeholder="" name="upd_desg" value="Supervisor">
+                            </div>
+                            <div class="mb-3 mt-3">
+                                <label for="upd_email">E-mail: </label>
+                                <input disabled type="email" class="form-control" id="upd_email" placeholder="" name="upd_email" value="rksahni@relaince.co.in">
+                            </div>
+                            <div class="mb-3 mt-3">
+                                <label for="upd_phone">Phone: </label>
+                                <input disabled type="number" class="form-control" id="upd_phone" placeholder="" name="upd_phone" value="7584268143">
+                            </div>
+                            <div class="mb-3">
+                                <button type="button" class="btn btn-dark float-end " id="submit">Submit</button>
+                            </div>
+                            <div style="display:none;" id="otp_div">
+                                <div class="mb-3 mt-5">
+                                    <label for="OTP">Enter OTP:</label>
+                                    <br><span><i>OTP sent on Phone 7584268143 and on E-mail rksahni@relaince.co.in</i></span>
+                                    <input class="form-control" type="password" name="vf_otp" placeholder="Enter OTP here..." id="vf_otp" size="10">
+                                </div>
+                                <div class="float-end">
+                                    <button type="submit" class=" me-0 btn btn-primary">Verify</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    public List<IssueModel>? Issues;
+    protected override async Task OnInitializedAsync()
+    {
+        Issues = await _IssueDb.GetIssues();
+    }
+
+    int counter = 1;
+
+
+
+}
